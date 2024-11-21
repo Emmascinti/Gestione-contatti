@@ -1,29 +1,30 @@
-# contatti
+# Gestione contatti
 
-This template should help get you started developing with Vue 3 in Vite.
+Un'applicazione per gestire contatti, sviluppata con Vue.js. L'app consente di aggiungere, modificare, eliminare e cercare contatti in modo semplice e intuitivo.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Come avviare l'app
 
-## Customize configuration
+1. **Clona il progetto**
+   ```bash
+   git clone https://github.com/tuo-utente/nome-repo.git
+   cd nome-repo
+   ```
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+2. **Installa le dipendenze**
 
-## Project Setup
+Assicurati di avere Node.js installato sul tuo computer, poi esegui:
 
-```sh
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+3. **Avvia l'app in modalità sviluppo**
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+4. **Apri l'app nel browser**
+Una volta avviata, vai su http://localhost:3000 (o l'indirizzo indicato dal terminale).
 
-```sh
-npm run build
-```
